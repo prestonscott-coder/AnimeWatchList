@@ -65,6 +65,11 @@
     padding-left: 4%;
   }
 
+  main > section > section{
+    padding: 50px;
+    height: 150px;
+  }
+
     .circle {
       height: 24px;
       width: 24px;
