@@ -7,3 +7,6 @@ Go to your category of choice and find the anime you want to watch. Create your 
 
 
 https://thebestanimewatchlist.netlify.app
+
+
+p.s. full production would have oAuth so everyone could have their own.
