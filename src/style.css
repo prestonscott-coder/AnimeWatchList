@@ -65,7 +65,7 @@
     padding-left: 4%;
   }
 
-  main > section + section + section > p{
+  section + section >p{
     padding: 50px;
     height: 150px;
   }
