@@ -66,7 +66,7 @@
   }
 
   section + section >p{
-    padding: 10px;
+    padding-top: 50px;
     height: 50px;
   }
 
