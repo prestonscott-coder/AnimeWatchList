@@ -155,12 +155,3 @@ animateCircles();
 
 
 
-//api for anime 
-// const url = 'https://api.jikan.moe/v4/genres/anime'
-// fetch(url)
-//   .then(response => response.json())
-//   .then(data => {
-//     console.log(data
-//     )
-//   })
-//   .catch(error => console.error('Error:', error));
