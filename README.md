@@ -5,6 +5,7 @@ Anime Watchlist
 
 Go to your category of choice and find the anime you want to watch. Create your watchlist by coming back and adding it's name to your database!
 
+**Tech used:** HTML/CSS, TailwindCSS, JavaScript, Node.js
 
 https://thebestanimewatchlist.netlify.app
 
